@@ -1,0 +1,27 @@
+{
+  "name": "proxy",
+  "version": "0.1.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajdcc/proxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "bajdcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bajdcc/proxy/issues"
+  },
+  "homepage": "https://github.com/bajdcc/proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "log4js": "^1.1.0",
+    "request": "^2.79.0"
+  }
+}
